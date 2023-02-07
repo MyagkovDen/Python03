@@ -15,3 +15,6 @@ for i in range(n):
     if list[i] == x:
         count += 1
 print(f"Число {x} встречается в списке {count} раз")
+
+# альтернативное решение 
+# print(list.count(x))
